@@ -39,8 +39,92 @@ jspm_packages/
 # TypeScript v1 declaration files
 typings/
 
-# Optional npm cache directory
-.npm
+# Optional npm c    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickRg96/curriculum-vitae-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickRg96/curriculum-vitae-react/issues"
+  },
+  "homepage": "https://github.com/ErickRg96/curriculum-vitae-react#readme"
+}
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickRg96/curriculum-vitae-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickRg96/curriculum-vitae-react/issues"
+  },
+  "homepage": "https://github.com/ErickRg96/curriculum-vitae-react#readme"
+}
+che directory
+    "test": "ech    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickRg96/curriculum-vitae-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickRg96/curriculum-vitae-react/issues"
+  },
+  "homepage": "https://github.com/ErickRg96/curriculum-vitae-react#readme"
+}
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickRg96/curriculum-vitae-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickRg96/curriculum-vitae-react/issues"
+  },
+  "homepage": "https://github.com/ErickRg96/curriculum-vitae-react#readme"
+}
+ \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickRg96/curriculum-vitae-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickRg96/curriculum-vitae-react/issues"
+  },
+  "homepage": "https://github.com/ErickRg96/curriculum-vitae-react#readme"
+}
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickRg96/curriculum-vitae-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickRg96/curriculum-vitae-react/issues"
+  },
+  "homepage": "https://github.com/ErickRg96/curriculum-vitae-react#readme"
+}
 
 # Optional eslint cache
 .eslintcache
@@ -59,3 +143,4 @@ typings/
 
 # next.js build output
 .next
+dist/
